@@ -1,0 +1,30 @@
+### List Tasks
+
+GET http://localhost:8080/tasks
+
+### Create Task
+
+POST http://localhost:8080/tasks
+Content-Type: application/json
+
+{
+  "id": 2,
+  "description": "Ir dormir"
+}
+
+### Delete Task
+
+DELETE http://localhost:8080/tasks/1
+
+### Atualizar Task
+
+PUT http://localhost:8080/tasks/1
+Content-Type: application/json
+
+{
+  "description": "Study Spring Boot Atualizado"
+}
+
+### Clear Task
+
+DELETE http://localhost:8080/tasks
