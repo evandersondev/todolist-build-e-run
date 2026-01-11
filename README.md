@@ -4,7 +4,7 @@
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=Social&message=@evandersondev&color=EA2027&labelColor=000000" alt="@evandersondev" />
- <img src="https://img.shields.io/static/v1?label=Tipo&message=Formação Spring Boot&color=EA2027&labelColor=000000" alt="Formação Spring Boot" />
+ <img src="https://img.shields.io/static/v1?label=Tipo&message=Curso&color=EA2027&labelColor=000000" alt="Curso" />
 </p>
 
 API de tarefas usando Java e Spring Boot, um todo-list desenvolvido no curso Formação Spring Boot da Build & Run para aprender as principais práticas para criação de backend.
